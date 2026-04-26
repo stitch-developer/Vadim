@@ -32,13 +32,3 @@
 
 ![aiogram](https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 ![telethon](https://img.shields.io/badge/telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=250&lines=My+Discord+server%3A" alt="Typing SVG" />
-</p>
-
-[![Discord Server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/l1te)
-
- [![gls63](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1354758424491196487)
-
-</div>
